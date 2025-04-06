@@ -36,6 +36,10 @@ The dashboard provides a comprehensive view of pizza sales data, offering insigh
 - **Top-Selling Pizzas**: Identifying the most popular pizza varieties based on sales performance.
 - **Pizza Size Preferences**: Understanding customer preferences for different pizza sizes.
 
+
+![Image](https://github.com/user-attachments/assets/e728ad42-83bf-4fd6-9b84-f3dbc599ae35)
+
+
 ### Sales Trends
 The data reveals:
 - A steady **increase in total orders (7.55%)** compared to the previous period.
