@@ -1,6 +1,6 @@
-# Pizza Sales SQL Data Analyst Project
+# Pizza Sales SQL Data Analyst Project🍕
 
-## Project Background
+## Project Background 
 Understanding customer preferences and sales performance is crucial in the food service industry. This project aims to analyze pizza sales data using SQL, uncovering key business insights that can drive data driven decisions. By examining various aspects of sales data such as order trends, product performance, and revenue patterns we can identify opportunities for business growth and optimization.
 
 Our analysis follows a structured methodology that includes:
